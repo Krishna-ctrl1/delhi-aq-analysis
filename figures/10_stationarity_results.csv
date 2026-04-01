@@ -1,0 +1,5 @@
+Variable,ADF Statistic,ADF p-value,ADF Result,KPSS Statistic,KPSS p-value,KPSS Result
+PM25,-5.2539,0.0,Stationary ✓,2.1074,0.01,Non-stationary ✗
+NO2,-7.0267,0.0,Stationary ✓,2.0761,0.01,Non-stationary ✗
+Ozone,-8.4945,0.0,Stationary ✓,3.6411,0.01,Non-stationary ✗
+CO,-7.7311,0.0,Stationary ✓,2.0596,0.01,Non-stationary ✗
