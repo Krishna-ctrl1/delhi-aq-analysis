@@ -1,0 +1,10 @@
+Predictor,Best_Lag_hrs,F_statistic,p_value,Granger_Causes_PM25
+AT,4,109.98,0.0,✓ YES
+RH,5,93.698,0.0,✓ YES
+WS,8,19.383,0.0,✓ YES
+SR,1,394.896,0.0,✓ YES
+BP,7,36.704,0.0,✓ YES
+NO2,3,125.943,0.0,✓ YES
+CO,3,427.494,0.0,✓ YES
+SO2,5,39.221,0.0,✓ YES
+Ozone,5,39.596,0.0,✓ YES
