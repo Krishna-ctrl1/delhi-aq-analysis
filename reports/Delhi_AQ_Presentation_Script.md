@@ -2,53 +2,6 @@
 ### Advanced Data Analytics | IIIT Sri City | April 2026
 ### Krishna Gupta (S20230010124) & Kumarran Mahesh (S20230030387)
 
----
-
-## ★ PRESENTATION RATING: 8.4 / 10
-
-### What's excellent
-- **Colour scheme & visual hierarchy** — Deep navy + teal is professional and consistent across all 12 slides. Clean, readable, not cluttered.
-- **Stats callout cards** — The big-number boxes (20×, 30M+, RMSE 30.3, R²=0.948) immediately grab attention and give the panel anchor numbers to remember.
-- **Graph embedding** — Having your actual Python-generated graphs (VOC cluster scatter, PCMCI+ graph, Isolation Forest, SHAP beeswarm, model comparison bar) embedded directly is a major strength. No fake screenshots.
-- **The SHAP vs PCMCI+ divergence matrix on Slide 9** — This is your single most intellectually original slide. Most students never make this connection.
-- **Policy recommendations are concrete** — Not vague "we should reduce pollution" but season-stratified, CO-targeted, GRAP-dated action points.
-- **Benzene risk finding** — Powerful and under-reported. Will definitely get attention from the professor.
-
-### What could be slightly stronger
-- Slide 10 (Key Contributions) repeats some text from Slide 11 (Policy) — minor content overlap.
-- The PCMCI+ graph image is slightly hard to read at slide scale (the lag numbers are crowded). You may want to explain it verbally in detail.
-- No explicit "limitations" slide — if the prof asks, be ready (single station focus, 1h horizon only, no satellite data).
-- Slide 2 mentions "PM2.5 Time Series — 6 Key Stations" but doesn't embed the actual image — you describe it in text only.
-
----
-
-## DIVISION OF SLIDES
-
-### KRISHNA GUPTA — Slides 1 through 6
-*(Introduction, Motivation, Framework, EDA, RQ1-VOC, RQ2-Causal)*
-- Title & Introduction (Slide 1)
-- The Crisis (Slide 2)
-- Research Framework (Slide 3)
-- Data & EDA — Wind Rose + Calendar Heatmap (Slide 4)
-- RQ1 Result — VOC Source Fingerprinting (Slide 5)
-- RQ2 Result — PCMCI+ Causal Discovery (Slide 6)
-
-**Total time: ~10–12 minutes**
-
-### KUMARRAN MAHESH — Slides 7 through 12
-*(Anomaly Detection, Forecasting, Key Insight, Contributions, Policy)*
-- RQ3 Result — Anomaly Detection & PELT (Slide 7)
-- RQ4 Result — Forecasting & Persistence Ceiling (Slide 8)
-- Key Insight — Prediction ≠ Causation (Slide 9)
-- Key Contributions (Slide 10)
-- Policy Recommendations (Slide 11)
-- Thank You + Q&A (Slide 12)
-
-**Total time: ~10–12 minutes**
-
----
----
-
 # PART 1 — KRISHNA GUPTA'S SCRIPT
 
 ---
